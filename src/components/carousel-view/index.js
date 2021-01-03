@@ -8,7 +8,6 @@ function CarouselView() {
     useEffect(() => {
         axios.get(`https://api.themoviedb.org/3/trending/movie/week?api_key=f9f33a1abf02ec3217e6018fc9fe264a`)
             .then(res => {
-                console.log(res.data.results)
                 setMovies([...res.data.results]);
             })
     }, [])
