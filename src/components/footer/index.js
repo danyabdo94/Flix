@@ -14,13 +14,13 @@ function Footer() {
                         <p className="uppercase text-gray-500 md:mb-6">Links</p>
                         <ul className="list-reset mb-6">
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">FAQ</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">FAQ</a>
                             </li>
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">Help</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">Help</a>
                             </li>
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">Support</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">Support</a>
                             </li>
                         </ul>
                     </div>
@@ -28,10 +28,10 @@ function Footer() {
                         <p className="uppercase text-gray-500 md:mb-6">Legal</p>
                         <ul className="list-reset mb-6">
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">Terms</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">Terms</a>
                             </li>
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">Privacy</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">Privacy</a>
                             </li>
                         </ul>
                     </div>
@@ -39,13 +39,13 @@ function Footer() {
                         <p className="uppercase text-gray-500 md:mb-6">Social</p>
                         <ul className="list-reset mb-6">
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">Facebook</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">Facebook</a>
                             </li>
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">Linkedin</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">Linkedin</a>
                             </li>
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">Twitter</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">Twitter</a>
                             </li>
                         </ul>
                     </div>
@@ -53,13 +53,13 @@ function Footer() {
                         <p className="uppercase text-gray-500 md:mb-6">Company</p>
                         <ul className="list-reset mb-6">
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">Official Blog</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">Official Blog</a>
                             </li>
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">About Us</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">About Us</a>
                             </li>
                             <li className="mt-2 inline-block mr-2 md:block md:mr-0">
-                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-pink-500">Contact</a>
+                                <a href="#" className="no-underline hover:underline text-gray-300 hover:text-gray-200">Contact</a>
                             </li>
                         </ul>
                     </div>
