@@ -5,7 +5,7 @@ function CarouselView() {
     return (
         <section className=" border-b py-8">
             <div className="container mx-auto flex flex-wrap pt-4 pb-12">
-                <h1 className="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-200">
+                <h1 className="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-300 ">
                     Title
                 </h1>
                 <div className="w-full mb-4">
@@ -17,10 +17,10 @@ function CarouselView() {
                             <p className="w-full text-gray-600 text-xs md:text-sm px-6">
                                 xGETTING STARTED
                             </p>
-                            <div className="w-full font-bold text-xl text-gray-200 px-6">
+                            <div className="w-full font-bold text-xl text-gray-300  px-6">
                                 Lorem ipsum dolor sit amet.
                             </div>
-                            <p className="text-gray-200 text-base px-6 mb-5">
+                            <p className="text-gray-300  text-base px-6 mb-5">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
                             </p>
                         </a>
@@ -39,10 +39,10 @@ function CarouselView() {
                             <p className="w-full text-gray-600 text-xs md:text-sm px-6">
                                 xGETTING STARTED
                             </p>
-                            <div className="w-full font-bold text-xl text-gray-200 px-6">
+                            <div className="w-full font-bold text-xl text-gray-300  px-6">
                                 Lorem ipsum dolor sit amet.
                             </div>
-                            <p className="text-gray-200 text-base px-6 mb-5">
+                            <p className="text-gray-300  text-base px-6 mb-5">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
                             </p>
                         </a>
@@ -61,10 +61,10 @@ function CarouselView() {
                             <p className="w-full text-gray-600 text-xs md:text-sm px-6">
                                 xGETTING STARTED
                             </p>
-                            <div className="w-full font-bold text-xl text-gray-200 px-6">
+                            <div className="w-full font-bold text-xl text-gray-300  px-6">
                                 Lorem ipsum dolor sit amet.
                             </div>
-                            <p className="text-gray-200 text-base px-6 mb-5">
+                            <p className="text-gray-300  text-base px-6 mb-5">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
                             </p>
                         </a>
