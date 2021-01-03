@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 
-import './carousel.css'
+import './index.css'
 
 function CarouselView() {
     const [movies, setMovies] = useState([])
